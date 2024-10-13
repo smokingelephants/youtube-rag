@@ -6,6 +6,7 @@ langchain[docarray]
 docarray
 pydantic==1.10.16
 pytube 
+pytubefix
 python-dotenv
 tiktoken 
 pinecone-client 
